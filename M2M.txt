@@ -1,0 +1,19 @@
+- Basic Syntax
+
+- Logic Building
+
+- OOPs Introduction
+
+- What are classes and objects
+
+- 4 Pillars of OPPs
+
+- Constructors
+
+- Inheritence
+
+-
+
+
+
+Function Overloading 
