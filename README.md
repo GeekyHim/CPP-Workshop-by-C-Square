@@ -4,45 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Code++ | C++ Workshop</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-        }
-        .container {
-            max-width: 800px;
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            text-align: center;
-            color: #333;
-        }
-        .emoji {
-            font-size: 1.2em;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-        ul li::before {
-            content: "\1F4CC"; /* Pushpin emoji */
-            margin-right: 10px;
-        }
-        .repo-section {
-            margin-top: 20px;
-        }
-        .hashtags {
-            text-align: center;
-            margin-top: 20px;
-            font-weight: bold;
-            color: #555;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
